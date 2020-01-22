@@ -1,0 +1,15 @@
+C:\Users\NaufalAj\Documents\Visual Studio 2017\Projects\WebApplication10\WebApplication10\obj\Debug\netcoreapp2.1\WebApplication10.csproj.CoreCompileInputs.cache
+C:\Users\NaufalAj\Documents\Visual Studio 2017\Projects\WebApplication10\WebApplication10\obj\Debug\netcoreapp2.1\WebApplication10.AssemblyInfoInputs.cache
+C:\Users\NaufalAj\Documents\Visual Studio 2017\Projects\WebApplication10\WebApplication10\obj\Debug\netcoreapp2.1\WebApplication10.AssemblyInfo.cs
+C:\Users\NaufalAj\Documents\Visual Studio 2017\Projects\WebApplication10\WebApplication10\bin\Debug\netcoreapp2.1\WebApplication10.deps.json
+C:\Users\NaufalAj\Documents\Visual Studio 2017\Projects\WebApplication10\WebApplication10\bin\Debug\netcoreapp2.1\WebApplication10.runtimeconfig.json
+C:\Users\NaufalAj\Documents\Visual Studio 2017\Projects\WebApplication10\WebApplication10\bin\Debug\netcoreapp2.1\WebApplication10.runtimeconfig.dev.json
+C:\Users\NaufalAj\Documents\Visual Studio 2017\Projects\WebApplication10\WebApplication10\bin\Debug\netcoreapp2.1\WebApplication10.dll
+C:\Users\NaufalAj\Documents\Visual Studio 2017\Projects\WebApplication10\WebApplication10\bin\Debug\netcoreapp2.1\WebApplication10.pdb
+C:\Users\NaufalAj\Documents\Visual Studio 2017\Projects\WebApplication10\WebApplication10\obj\Debug\netcoreapp2.1\WebApplication10.csprojAssemblyReference.cache
+C:\Users\NaufalAj\Documents\Visual Studio 2017\Projects\WebApplication10\WebApplication10\obj\Debug\netcoreapp2.1\WebApplication10.RazorAssemblyInfo.cache
+C:\Users\NaufalAj\Documents\Visual Studio 2017\Projects\WebApplication10\WebApplication10\obj\Debug\netcoreapp2.1\WebApplication10.RazorAssemblyInfo.cs
+C:\Users\NaufalAj\Documents\Visual Studio 2017\Projects\WebApplication10\WebApplication10\obj\Debug\netcoreapp2.1\WebApplication10.RazorTargetAssemblyInfo.cache
+C:\Users\NaufalAj\Documents\Visual Studio 2017\Projects\WebApplication10\WebApplication10\obj\Debug\netcoreapp2.1\WebApplication10.dll
+C:\Users\NaufalAj\Documents\Visual Studio 2017\Projects\WebApplication10\WebApplication10\obj\Debug\netcoreapp2.1\WebApplication10.pdb
+C:\Users\NaufalAj\Documents\Visual Studio 2017\Projects\WebApplication10\WebApplication10\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
